@@ -1,10 +1,10 @@
 # XcodeShortcutKey
 记录比较常用的辅助开发快捷键
 
-
+```objective-c
 常用：
 
-跳过当前断点:  control + ⌘ + y   
+跳过当前断点:  control + ⌘ + y 
 清空打印日志:  ⌘ + k
 统一修改对象名称： control + ⌘ + e
 粘贴并匹配格式： ⌘ + alt + shift + v
@@ -64,3 +64,5 @@ shift + 左右 +  control / alt    (单行单方向全选, 功能一样)
 临时表情框：⌘ + control + space
 
 接受代码提示:  tab / enter
+
+```
