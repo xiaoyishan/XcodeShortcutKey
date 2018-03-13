@@ -4,7 +4,7 @@
 ```objective-c
 常用：
 
-跳过当前断点:  control + ⌘ + y 
+跳过当前断点:  control + ⌘ + y   
 清空打印日志:  ⌘ + k
 统一修改对象名称： control + ⌘ + e
 粘贴并匹配格式： ⌘ + alt + shift + v
@@ -32,7 +32,6 @@ shift + 左右 +  control / alt    (单行单方向全选, 功能一样)
 逆向缩进： tab + shirft
 单行缩进：⌘ + [ 或 ]
 
-隐藏文件：⌘ + h
 保存所有文件：⌘ + alt + s
 
 全局搜索： ⌘ + shift + f
@@ -56,6 +55,14 @@ shift + 左右 +  control / alt    (单行单方向全选, 功能一样)
 隐藏或打开日志界面:  ⌘ + shift + y
 隐藏或显示dork栏：   ⌘ + alt + d 
 
+最小化窗口：  ⌘ + m
+最小化窗口（所有选项卡）：  ⌘ +alt +m
+快速隐藏程序：⌘ + h
+快速隐藏其它所有程序：⌘ + alt + h
+快速隐藏所有程序：⌘ + alt + h + m
+
+
+
 在SB中打开对应的控制器：⌘ + alt + enter
 在 .h .m文件之间切换:  ⌘ + control + 上/下
 
@@ -64,5 +71,7 @@ shift + 左右 +  control / alt    (单行单方向全选, 功能一样)
 临时表情框：⌘ + control + space
 
 接受代码提示:  tab / enter
+
+
 
 ```
