@@ -38,7 +38,7 @@ shift + 左右 +  control / alt    (单行单方向全选, 功能一样)
 搜下一个：⌘ + g
 搜上一个：⌘ + shift + g
 
-
+中断当前正在执行的指令: control + c
 
 
 
