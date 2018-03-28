@@ -74,4 +74,11 @@ shift + 左右 +  control / alt    (单行单方向全选, 功能一样)
 
 
 
+终端创建文件夹: mkdir + foldername
+终端创建文件:  touch + filename
+
+移动,删除,重命名等: https://www.jianshu.com/p/3291de46f3ff
+
+
+
 ```
