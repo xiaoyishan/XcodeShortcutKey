@@ -15,6 +15,7 @@
 隐藏或打开补充框：⌘ + alt + 0
 打开双视图：⌘ + alt + enter
 关闭双视图：⌘ + enter
+打开已选中文件: ⌘ + o
 
 删除光标当前行前面的代码：⌘ + del
 删除光标当前行前面一段连续单词： alt + del
@@ -73,8 +74,7 @@ shift + 左右 +  control / alt    (单行单方向全选, 功能一样)
 接受代码提示:  tab / enter
 
 
-
-终端创建文件夹: mkdir + foldername
+终端创建文件夹：mkdir +文件夹名称
 终端创建文件:  touch + filename
 
 移动,删除,重命名等: 来自KeKeMars的简书 [链接](https://www.jianshu.com/p/3291de46f3ff)
